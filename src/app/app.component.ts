@@ -12,3 +12,5 @@ import { RouterOutlet } from '@angular/router';
   imports: [HeaderComponent, UsersComponent,RouterOutlet],
 })
 export class AppComponent {}
+
+//this is from kk -01
